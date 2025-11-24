@@ -142,4 +142,5 @@ Diharapkan penelitian ini dapat menjadi referensi dalam memahami pentingnya sine
 Nama: 
 Nagatan Alief Putra Silahen    (24031554086)
 Khansa Nadhifa 		 (1314622032)
+
 Project ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah Data Wrangling.
